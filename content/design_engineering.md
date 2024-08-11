@@ -1,0 +1,8 @@
+- Idea validation
+- Rapid prototyping
+- Production code
+- UI code quality
+- Creating useful tools
+- Encapsulating systems
+- Setting up project groundwork
+- Empowering effective collaboration
